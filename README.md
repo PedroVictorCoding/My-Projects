@@ -2,7 +2,7 @@
 ### In here I have all projects that I am doing or I plan to do
 ###
 ####  Learn Python
-  - [x] [Udacity Introduction to Python Course](https://classroom.udacity.com/courses/ud1110)
+  - [ ] [Udacity Introduction to Python Course](https://classroom.udacity.com/courses/ud1110)
   - [ ] [Introduction to Python by DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
   - [ ] [DevelopIntelligence Intermediate Python](https://www.developintelligence.com/catalog/devops/python/intermediate-python)
   - [ ] [Intermediante Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
