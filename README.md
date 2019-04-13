@@ -4,6 +4,7 @@
 ####  Learn Introduction Python
   - [x] Udacity Introduction to Python Course
   - [ ] [DevelopIntelligence Intermediate Python](https://www.developintelligence.com/catalog/devops/python/intermediate-python)
+  - [ ] Impractical Python Projects by Lee Vaughan
 
 #### Hand recognition to preform task (Live reaction would be preferred)
   - [ ] [TensorFlow](https://www.tensorflow.org)
@@ -12,5 +13,6 @@
 #### Learn Ethical Hacking
   - [ ] [Guru99 Ethical Hacking Online Course](https://www.guru99.com/ethical-hacking-tutorials.html)
   - [ ] (Show more sources like wikipedia)
+      * [White Hat](https://en.wikipedia.org/wiki/White_hat_(computer_security))
 
 ####
