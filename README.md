@@ -13,6 +13,6 @@
 #### Learn Ethical Hacking
   - [ ] [Guru99 Ethical Hacking Online Course](https://www.guru99.com/ethical-hacking-tutorials.html)
   - [ ] (Show more sources like wikipedia)
-      * [White Hat](https://en.wikipedia.org/wiki/White_hat_(computer_security))
+      * [White Hat (Computer Security)](https://en.wikipedia.org/wiki/White_hat_(computer_security))
 
 ####
