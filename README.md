@@ -24,10 +24,10 @@
   
 #### Learn Philosophy
   * Ethics
-    - [ ] Beyond Good and Evil by Friedrich Nietzsche (Owned book - physical version)
+   - [ ] Beyond Good and Evil by Friedrich Nietzsche (Owned book - physical version)
     
   * Stoicism
-    - [x] The Essential Marcus Aurelius by Marcus Aurelius, Jacob Needleman and John P. Piazza (Owned book - physical version)
+   - [x] The Essential Marcus Aurelius by Marcus Aurelius, Jacob Needleman and John P. Piazza (Owned book - physical version)
     
   * Logic
     - [ ] Searhc for kant and stuart mill
