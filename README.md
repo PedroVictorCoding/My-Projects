@@ -6,7 +6,7 @@
   - [ ] [Introduction to Python by DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
   - [ ] [DevelopIntelligence Intermediate Python](https://www.developintelligence.com/catalog/devops/python/intermediate-python)
   - [ ] [Intermediante Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
-  - [ ] Impractical Python Projects by Lee Vaughan (Owned book)
+  - [ ] Impractical Python Projects by Lee Vaughan (Owned book - physical version)
   - [ ] [Python Advanced: Advanced Topics by Python-Course](https://www.python-course.eu/advanced_topics.php)
 
 #### Hand recognition to preform task (Live reaction would be preferred)
@@ -19,4 +19,5 @@
   - [ ] (Show more sources like wikipedia)
       * [White Hat (Computer Security)](https://en.wikipedia.org/wiki/White_hat_(computer_security))
 
-####
+#### Learn Git
+  - [ ] Git: Pocket Guide by Richard E. Silverman (Owned book - physical version)
