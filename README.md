@@ -13,6 +13,7 @@
 #### Learn Ethical Hacking
   - [ ] [Guru99 Ethical Hacking Online Course](https://www.guru99.com/ethical-hacking-tutorials.html)
   - [ ] [Ethical Hacking by tutorials point](https://www.tutorialspoint.com/ethical_hacking/)
+  - [ ] [Intermediante Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
   - [ ] (Show more sources like wikipedia)
       * [White Hat (Computer Security)](https://en.wikipedia.org/wiki/White_hat_(computer_security))
 
