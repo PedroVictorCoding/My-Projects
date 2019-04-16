@@ -36,7 +36,7 @@
     - [ ] Add more
     
   * Logic
-     - [ ] Searhc for kant and stuart mill
+     - [ ] Search for kant and stuart mill
      - [ ] Add more
     
   * Politics
