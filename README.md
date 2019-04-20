@@ -9,12 +9,7 @@
   - [ ] Impractical Python Projects by Lee Vaughan (Owned book - physical version)
   - [ ] [Python Advanced: Advanced Topics by Python-Course](https://www.python-course.eu/advanced_topics.php)
   - [ ] Add more
-
-#### Hand recognition to preform task (Live reaction would be preferred)
-  - [ ] [TensorFlow](https://www.tensorflow.org)
-  - [ ] (Link and more info)
-  - [ ] Add more
-
+  
 #### Learn Ethical Hacking
   - [ ] [Guru99 Ethical Hacking Online Course](https://www.guru99.com/ethical-hacking-tutorials.html)
   - [ ] [Ethical Hacking by tutorials point](https://www.tutorialspoint.com/ethical_hacking/)
