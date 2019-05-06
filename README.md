@@ -1,6 +1,12 @@
 # My Projects Ideas
 ### In here I have all projects that I am doing or I plan to do
 ###
+#### Coding Projects
+  - [ ] [einstein -Educational Platform]()
+  - [ ] [Sound and Music Social Media]()
+  - [ ] [Multiple OS software store]()
+
+
 ####  Learn Python
   - [ ] [Udacity Introduction to Python Course](https://classroom.udacity.com/courses/ud1110)
   - [ ] [Introduction to Python by DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
