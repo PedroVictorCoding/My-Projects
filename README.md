@@ -5,6 +5,7 @@
   - [ ] [einstein -Educational Platform]()
   - [ ] [Sound and Music Social Media]()
   - [ ] [Multiple OS software store]()
+  - [ ] [Rewriter tool : with UI using python]()
 
 
 ####  Learn Python
