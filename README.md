@@ -20,6 +20,18 @@
   - [ ] [Python Advanced: Advanced Topics by Python-Course](https://www.python-course.eu/advanced_topics.php)
   - [ ] Add more
 
+#### Learn OS Development
+  - [ ] [Introduction](https://wiki.osdev.org/Introduction)
+  - [ ] [Beginner Mistakes](https://wiki.osdev.org/Beginner_Mistakes)
+  - [ ] [Getting Started](https://wiki.osdev.org/Getting_Started)
+  - [ ] [What order should I make things in?](https://wiki.osdev.org/What_order_should_I_make_things_in)
+  - [ ] [Tutorials](https://wiki.osdev.org/Tutorials)
+  * Environment
+  - [ ] [How kernel, compiler, and C library work together](https://wiki.osdev.org/How_kernel,_compiler,_and_C_library_work_together)
+  
+  ######TODO ::  ADD THE REST
+  
+
 #### Learn Ethical Hacking
   - [ ] [Guru99 Ethical Hacking Online Course](https://www.guru99.com/ethical-hacking-tutorials.html)
   - [ ] [Ethical Hacking by tutorials point](https://www.tutorialspoint.com/ethical_hacking/)
