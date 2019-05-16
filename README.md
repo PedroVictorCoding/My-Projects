@@ -7,6 +7,7 @@
   - [ ] [Multiple OS software store]()
   - [ ] [Rewriter tool : with UI using python]()
   - [ ] [Webpage slider with defined pages to learn things where you don't need to go back and forth to continue learning]()
+  - [ ] [voice to action apps]()
 
 
 ####  Learn Python
