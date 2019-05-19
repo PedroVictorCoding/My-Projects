@@ -10,7 +10,7 @@
   - [ ] [Voice to action apps :: Like turn a picture into black and white by saying "Turn Black and White"]()
 
 #### Ideas
-  - [ ] [Explain how random things work or why they are the way they are, in articles]()
+  - [ ] [Explain how random things work or why they are the way they are, in articles - more specific things, like "Why is the sky blue?"]()
 
 ####  Learn Python
   - [ ] [Udacity Introduction to Python Course](https://classroom.udacity.com/courses/ud1110)
