@@ -9,6 +9,8 @@
   - [ ] [Webpage slider with defined pages to learn things where you don't need to go back and forth to continue learning]()
   - [ ] [Voice to action apps :: Like turn a picture into black and white by saying "Turn Black and White"]()
 
+#### Ideas
+  - [ ] [Explain how random things work or why they are the way they are, in articles]()
 
 ####  Learn Python
   - [ ] [Udacity Introduction to Python Course](https://classroom.udacity.com/courses/ud1110)
