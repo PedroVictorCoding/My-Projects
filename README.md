@@ -23,6 +23,14 @@
   - [ ] [Python Advanced: Advanced Topics by Python-Course](https://www.python-course.eu/advanced_topics.php)
   - [ ] Add more
 
+#### Learn C++
+  - [ ] ["Start C++ Programming Today!" - Youtube Video](https://www.youtube.com/watch?v=GNxVXPPZS_w)
+  - [ ] [Learn C++ - Codeacademy](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-hello-world/exercises/introduction)
+  - [ ] [Introduction to C++](https://www.edx.org/course/introduction-to-c-3)
+  - [ ] [Intermediante C++](https://www.edx.org/course/intermediate-c-2)
+  - [ ] [Advanced C++](https://www.edx.org/course/advanced-c-2)
+  - [ ] [LearnCpp.com](https://www.learncpp.com)
+  
 #### Learn OS Development
   - [ ] [Introduction](https://wiki.osdev.org/Introduction)
   - [ ] [Beginner Mistakes](https://wiki.osdev.org/Beginner_Mistakes)
