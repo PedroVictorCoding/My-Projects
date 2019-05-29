@@ -74,5 +74,3 @@
  #### Learn Calculus
    - [ ] Calculus - An Intuitive and Physical Approach by Morris Kline (Owned book - physical version)
    - [ ] Add more
-
- #### Learn 100 Deadly Skills
