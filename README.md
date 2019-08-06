@@ -3,6 +3,7 @@
 ###
 #### Coding Projects
   - [ ] [einstein -Educational Platform]()
+  - [ ] Tool that detects speech inside car and tries to understand what song the user is singing and starts playing it from spotify
   - [ ] [Sound and Music Social Media]()
   - [ ] [Multiple OS software store]()
   - [ ] [Rewriter tool : with UI using python]()
